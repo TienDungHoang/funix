@@ -1,3 +1,6 @@
+Github link: 
+https://github.com/TienDungHoang/funix.git
+
 How to run the program? 
 1. Run the .py file using python IDE tool such as Pycharm
 2. Execute the code
